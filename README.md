@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nischal 👋
 
-<!--
-**NischalShresthaOfficial/NischalShresthaOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a primary focus on JavaScript, TypeScript, and Python.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 I'm currently an undergrad and pursuing my career in Software Engineering.
+- 💻 I’m currently working on a **Staff Management SaaS mobile application**.
+- 🦾 I mostly focus on **Backend-oriented tasks**, with a little emphasis on Frontend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- 🔧 **Languages**: JavaScript | TypeScript | Python | PHP | Dart
+- 🛠️ **Frameworks**: Express | Laravel | Flask | Flutter 
+- 💻 **Tools**: VsCode | DataGrip | Workbench | Android Studio | Docker | Git | Postman
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NischalShresthaOfficial&show_icons=true&count_private=true)
+
