@@ -12,6 +12,5 @@ I'm a software developer with a primary focus on JavaScript, TypeScript, and Pyt
 - 🛠️ **Frameworks**: Express | Laravel | Flask | Flutter 
 - 💻 **Tools**: VsCode | DataGrip | Workbench | Android Studio | Docker | Git | Postman
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NischalShresthaOfficial&show_icons=true&count_private=true)
+
 
