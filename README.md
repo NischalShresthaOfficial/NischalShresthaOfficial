@@ -1,6 +1,6 @@
 # Hi, I'm Nischal 👋
 
-I'm a software engineer with a primary focus on JavaScript, TypeScript, Python and relational and non-relational databases.
+I'm a software engineer with a primary focus on JavaScript, TypeScript, Python alongside knwoledge across relational and non-relational databases.
 
 ## 🚀 About Me
 - 🎓 I'm currently an undergrad and pursuing my career in Software Engineering.
