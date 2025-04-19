@@ -9,7 +9,7 @@ I'm a software developer with a primary focus on JavaScript, TypeScript, and Pyt
 
 ## 🛠️ Technologies & Tools
 - 🔧 **Languages**: JavaScript | TypeScript | Python | PHP | Dart
-- 🛠️ **Frameworks**: Express | Laravel | Flask | Flutter 
+- 🛠️ **Frameworks**: Express | Flask | Laravel | Flutter 
 - 💻 **Tools**: VsCode | DataGrip | Workbench | Android Studio | Docker | Git | Postman
 
 
