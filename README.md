@@ -1,4 +1,4 @@
-# Hi, I'm Nischal 👋
+# Hi, I'm Nischal 
 
 I'm a software engineer with a primary focus on JavaScript, TypeScript, Python alongside knowledge across relational and non-relational databases.
 
