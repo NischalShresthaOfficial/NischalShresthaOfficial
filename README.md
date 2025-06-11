@@ -10,7 +10,7 @@ I'm a software engineer with a primary focus on JavaScript, TypeScript, Python a
 ## 🛠️ Technologies & Tools
 - 🔧 **Languages**: JavaScript | TypeScript | PHP | Python | Dart
 - 🛠️ **Frameworks**: Express | Flask | Laravel | Flutter 
-- 💻 **Tools**: VsCode | WebStrom | PhpStorm | DataGrip | Workbench | Android Studio | Docker | Git | Postman
+- 💻 **Tools**: VsCode | WebStorm | PhpStorm | DataGrip | Workbench | Android Studio | Docker | Git | Postman
 
 
 
