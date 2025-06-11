@@ -8,9 +8,9 @@ I'm a software engineer with a primary focus on JavaScript, TypeScript, Python a
 - 🦾 I mostly focus on **Backend-oriented tasks**, with a little emphasis on Frontend technologies.
 
 ## 🛠️ Technologies & Tools
-- 🔧 **Languages**: JavaScript | TypeScript | Python | PHP | Dart
+- 🔧 **Languages**: JavaScript | TypeScript | PHP | Python | Dart
 - 🛠️ **Frameworks**: Express | Flask | Laravel | Flutter 
-- 💻 **Tools**: VsCode | DataGrip | Workbench | Android Studio | Docker | Git | Postman
+- 💻 **Tools**: VsCode | WebStrom | PhpStorm | DataGrip | Workbench | Android Studio | Docker | Git | Postman
 
 
 
