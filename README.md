@@ -4,13 +4,13 @@ I'm a software engineer with a primary focus on JavaScript, TypeScript, PhP and 
 
 ## 🚀 About Me
 - 🎓 I'm currently an undergrad and pursuing my career in Software Engineering.
-- 💻 I’m currently working on a **Staff Management SaaS mobile application**.
+- 💻 I’m currently working on **InTouch, a Staff Management SaaS mobile application**.
 - 🦾 I mostly focus on **Backend-oriented tasks**, with a little emphasis on Frontend technologies.
 
 ## 🛠️ Technologies & Tools
 - 🔧 **Languages**: JavaScript | TypeScript | PHP | Python | Dart
 - 🛠️ **Frameworks**: Express | Flask | Laravel | Flutter 
-- 💻 **Tools**: VsCode | WebStorm | PhpStorm | DataGrip | Workbench | Android Studio | Docker | Git | Postman
+- 💻 **Tools**: VsCode | WebStorm | PhpStorm | PyCharm | DataGrip | Workbench | MongoDB Compass | Android Studio | Docker | Git | Postman | Ghostty | Tmux
 
 
 
