@@ -4,7 +4,7 @@ I'm a software engineer with a primary focus on JavaScript, TypeScript, PhP and 
 
 ## 🚀 About Me
 - 🎓 I'm currently an undergrad and pursuing my career in Software Engineering.
-- 💻 I’m currently working on **InTouch, a Staff Management SaaS mobile application**.
+- 💻 I’m currently working on **Goreto, a tourism based mobile application**.
 - 🦾 I mostly focus on **Backend-oriented tasks**, with a little emphasis on Frontend technologies.
 
 ## 🛠️ Technologies & Tools
