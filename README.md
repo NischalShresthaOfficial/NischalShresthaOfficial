@@ -1,16 +1,16 @@
 # Hi, I'm Nischal 
 
-I'm a software engineer with a primary focus on JavaScript, TypeScript, PhP and Python alongside knowledge across relational and non-relational databases.
+I'm a software engineer with a strong focus on designing and architecting scalable, reliable software solutions. I’m passionate about building well-structured systems that balance performance, maintainability, and real-world impact.
 
 ## 🚀 About Me
-- 🎓 I'm currently an undergrad and pursuing my career in Software Engineering.
-- 💻 I’m currently working on **Goreto, a tourism based mobile application**.
-- 🦾 I mostly focus on **Backend-oriented tasks**, with a little emphasis on Frontend technologies.
+- 🎓 Currently pursuing my undergraduate degree in Software Engineering.
+- 💻 Working on **InRecon,** a platform that helps insurance firms track and reconcile bank statements.
+- 🦾 Focused on system architecture, database design, and backend implementation.
 
-## 🛠️ Technologies & Tools
-- 🔧 **Languages**: JavaScript | TypeScript | PHP | Python | Dart
-- 🛠️ **Frameworks**: Express | Flask | Laravel | Flutter 
-- 💻 **Tools**: VsCode | WebStorm | PhpStorm | PyCharm | DataGrip | Workbench | MongoDB Compass | Android Studio | Docker | Git | Postman | Ghostty | Tmux
+## 🛠️ Tools & Environment
+- 🔧 **Languages**: C# | TypeScript | PHP | Python 
+- 🛠️ **Frameworks**: .Net | Express | Laravel  
+- 💻 **Tools**: Neovim | Docker | Git | Postman | Ghostty | Proxyman | Tmux
 
 
 
