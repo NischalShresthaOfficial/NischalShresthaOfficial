@@ -3,7 +3,7 @@
 I'm a software engineer with a strong focus on designing and architecting scalable, reliable software solutions. I’m passionate about building well-structured systems that balance performance, maintainability, and real-world impact.
 
 ## 🚀 About Me
-- 💻 Working on **InRecon,** a platform that helps insurance firms track and reconcile bank statements.
+- 💻 Working on **Insurance Help Claim**, a platform focused on improving insurance claim workflows.
 - 🦾 Focused on system architecture, database design, and backend implementation.
 - 🛠️ Skilled with modern technologies and frameworks, with a focus on building solutions that are both robust and maintainable.
 
