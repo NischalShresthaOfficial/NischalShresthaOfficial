@@ -24,7 +24,7 @@ I'm deeply interested in building systems that solve complex problems through th
   <img height="48" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />&nbsp;
   <img height="48" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" alt="GitHub Copilot" />&nbsp;
   <img height="48" src="https://cdn.simpleicons.org/ghostty" alt="Ghostty" />&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/openai/FFFFFF" alt="Codex" />&nbsp;
+  <img height="48" src="https://cdn.simpleicons.org/openai/FFFFFF" alt="OpenAI" />&nbsp;
   <img height="48" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Code" />&nbsp;
   <img height="48" src="https://opencode.ai/favicon.svg" alt="OpenCode" />
 </p>
