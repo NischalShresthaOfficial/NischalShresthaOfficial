@@ -21,12 +21,12 @@ I'm deeply interested in building systems that solve complex problems through th
 ## ⚙️ Tools I Use
 
 <p>
-  <img height="48" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/ghostty" alt="Ghostty" />&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/raycast/FF6363" alt="Raycast" />&nbsp;
-  <img height="48" src="https://rectangleapp.com/assets/images/mac512pts1x.png" alt="Rectangle" />&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" alt="GitHub Copilot" />&nbsp;
-  <img height="48" src="./assets/codex-openai-white.svg" alt="Codex" />&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Code" />&nbsp;
-  <img height="48" src="https://opencode.ai/favicon.svg" alt="OpenCode" />
+  <img width="28" height="28" src="https://cdn.simpleicons.org/visualstudiocode/3EA6FF" alt="VS Code" style="background:#2B2D3A;border-radius:12px;padding:10px;margin-right:8px;vertical-align:middle;" />
+  <img width="28" height="28" src="https://cdn.simpleicons.org/ghostty/FFFFFF" alt="Ghostty" style="background:#2B2D3A;border-radius:12px;padding:10px;margin-right:8px;vertical-align:middle;" />
+  <img width="28" height="28" src="https://cdn.simpleicons.org/raycast/FF6363" alt="Raycast" style="background:#2B2D3A;border-radius:12px;padding:10px;margin-right:8px;vertical-align:middle;" />
+  <img width="28" height="28" src="https://rectangleapp.com/assets/images/mac512pts1x.png" alt="Rectangle" style="background:#2B2D3A;border-radius:12px;padding:10px;margin-right:8px;vertical-align:middle;" />
+  <img width="28" height="28" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" alt="GitHub Copilot" style="background:#2B2D3A;border-radius:12px;padding:10px;margin-right:8px;vertical-align:middle;" />
+  <img width="28" height="28" src="./assets/codex-openai-white.svg" alt="Codex" style="background:#2B2D3A;border-radius:12px;padding:10px;margin-right:8px;vertical-align:middle;" />
+  <img width="28" height="28" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Code" style="background:#2B2D3A;border-radius:12px;padding:10px;margin-right:8px;vertical-align:middle;" />
+  <img width="28" height="28" src="https://opencode.ai/favicon.svg" alt="OpenCode" style="background:#2B2D3A;border-radius:12px;padding:10px;vertical-align:middle;" />
 </p>
