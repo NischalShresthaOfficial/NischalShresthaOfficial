@@ -17,12 +17,10 @@ I'm deeply interested in building systems that solve complex problems through th
 
 ## ⚙️ Tools I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logo=ghostery&logoColor=white" alt="Ghostty" />
-  <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/OpenCode-0F172A?style=for-the-badge" alt="OpenCode" />
+  <img height="48" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  <img height="48" src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" />
+  <img height="48" src="https://cdn.simpleicons.org/ghostty" alt="Ghostty" />
+  <img height="48" src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img height="48" src="https://cdn.simpleicons.org/anthropic" alt="Claude Code" />
+  <img height="48" src="https://opencode.ai/favicon.svg" alt="OpenCode" />
 </p>
