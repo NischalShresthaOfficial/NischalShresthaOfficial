@@ -18,9 +18,9 @@ I'm deeply interested in building systems that solve complex problems through th
 ## ⚙️ Tools I Use
 <p>
   <img height="48" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=githubcopilot&logoColor=000000" alt="GitHub Copilot" />
+  <img height="48" src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" alt="GitHub Copilot" />
   <img height="48" src="https://cdn.simpleicons.org/ghostty" alt="Ghostty" />
   <img height="48" src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=claude&logoColor=000000" alt="Claude Code" />
+  <img height="48" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Code" />
   <img height="48" src="https://opencode.ai/favicon.svg" alt="OpenCode" />
 </p>
