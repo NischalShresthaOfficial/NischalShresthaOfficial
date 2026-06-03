@@ -15,5 +15,5 @@ I'm deeply interested in building systems that solve complex problems through th
 ## 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,mysql,postgres,mongodb,express,nestjs,django,laravel,react" alt="Tech stack logos" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,mysql,postgres,mongodb,express,nestjs,django,laravel,react,nextjs" alt="Tech stack logos" />
 </p>
