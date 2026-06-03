@@ -4,9 +4,9 @@ I'm a software engineer with a strong focus on designing and architecting scalab
 
 ## 🚀 About Me
 
-- 💻 Working on **Insurance Help Claim**, a platform focused on improving insurance claim workflows.
-- 🦾 Focused on system architecture, database design, and backend implementation.
-- 🛠️ Skilled with modern technologies and frameworks, with a focus on building solutions that are both robust and maintainable.
+* 💻 Working on **Insurance Help Claim**, a platform focused on improving insurance claim workflows.
+* 🦾 Focused on system architecture, database design, and backend implementation.
+* 🛠️ Skilled with modern technologies and frameworks, with a focus on building solutions that are both robust and maintainable.
 
 ## 🧩 What Drives Me
 
@@ -15,5 +15,5 @@ I'm deeply interested in building systems that solve complex problems through th
 ## 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,mysql,postgres,mongodb,express,nestjs,django,laravel" alt="Tech stack logos" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,php,mysql,postgres,mongodb,express,nestjs,django,laravel" alt="Tech stack logos" />
 </p>
