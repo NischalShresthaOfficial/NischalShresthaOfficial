@@ -5,7 +5,7 @@ I'm a software engineer with a strong focus on designing and architecting scalab
 ## 🚀 About Me
 
 * 💻 Working on **Hostel BnB**, a platform focused on easing daily hostel operations and eliminating management chaos.
-* 🦾 Focused on system architecture, database design, and backend implementation.
+* 🦾 Focused on end-to-end system architecture, database design, robust backend APIs, and responsive frontend interfaces.
 * 🛠️ Skilled with modern technologies and frameworks, with a focus on building solutions that are both robust and maintainable.
 
 ## 🧩 What Drives Me
