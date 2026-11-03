@@ -4,7 +4,7 @@ I'm a software engineer with a strong focus on designing and architecting scalab
 
 ## 🚀 About Me
 
-* 💻 Working on **Insurance Help Claim**, a platform focused on improving insurance claim workflows.
+* 💻 Working on **Hostel BnB**, a platform focused on easing daily hostel operations and eliminating management chaos.
 * 🦾 Focused on system architecture, database design, and backend implementation.
 * 🛠️ Skilled with modern technologies and frameworks, with a focus on building solutions that are both robust and maintainable.
 
